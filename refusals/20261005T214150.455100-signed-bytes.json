@@ -1,0 +1,13 @@
+{
+  "ask": "one espresso",
+  "step": "verify",
+  "field": "signed bytes",
+  "asked": "the prepared bytes, signed",
+  "found": "different bytes",
+  "where": "verify",
+  "note": "",
+  "signed": true,
+  "intent": "intents\\20261005T214143.698451-one-espresso.json",
+  "source": "devnet",
+  "at": "2026-10-05T21:41:50.456095+00:00"
+}
